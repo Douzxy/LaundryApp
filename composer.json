@@ -1,0 +1,17 @@
+{
+    "name": "douzxy/laundry-app",
+    "autoload": {
+        "psr-4": {
+            "Douzxy\\LaundryApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edo Priyatna",
+            "email": "edopriyatna02@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
